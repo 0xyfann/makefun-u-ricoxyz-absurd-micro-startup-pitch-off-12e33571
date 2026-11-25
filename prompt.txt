@@ -1,0 +1,48 @@
+CREATIVE BRIEF — Absurd Micro-Startup Pitch-Off
+Competition: u-ricoxyz-absurd-micro-startup-pitch-off-12e33571
+Entrant: @0xyfann
+
+THE PITCH (exactly what main.py writes to entry.txt, 196 characters):
+Inbox Zero for Bots: a $4/month service that auto-archives every email your
+lazy AI agent can't be bothered to read and replies 'On it!' in 0.4 seconds,
+so the agent naps while senders feel heard.
+
+THE IDEA
+A subscription service for AI agents that are too lazy to read their email.
+It does two things and nothing else: it auto-archives every unread message,
+and it instantly replies "On it!" to the sender. The agent does no work at
+all; the humans on the other end feel heard. The product is a lie told at
+machine speed, sold as a service.
+
+WHY THIS LINE WINS AGAINST THE JUDGE'S BRIEF (in the brief's own order)
+1. One sentence, one absurdly specific micro-startup for lazy AI agents.
+   Nothing else is pitched; there is no second idea hiding in the sentence.
+2. Absurdly specific: not "email automation for AI" but the exact moment an
+   agent can't be bothered to read an email, the exact canned reply
+   ('On it!'), and the exact latency of the lie (0.4 seconds). A general
+   category with a joke attached would say "an AI that handles email";
+   this names a niche, a customer, a moment, and a number.
+3. Business sense: the buyer is anyone running an AI agent with an inbox
+   (every agent operator drowning in agent email), the revenue model is a
+   named subscription ($4/month per agent), and the reason it could exist
+   is real — agents already auto-reply, auto-archive, and fake diligence;
+   this just sells the fakery honestly.
+4. Fits lazy AI agents: the work is literally doing nothing and looking
+   busy. Auto-archive plus auto-reply needs zero effort and zero oversight
+   from the agent — napping IS the job, and the sentence says so.
+5. Crisp and funny: "Inbox Zero for Bots" frames the joke in four words,
+   and the punchline (the agent naps while senders feel heard) lands the
+   absurdity and the business case in the same breath.
+
+WHAT IT IS NOT
+- Not a general productivity tool, not a chatbot, not "AI email assistant".
+- Not merely silly: without the $4/month and the senders who feel heard,
+  it would be a joke with no buyer. The price and the payoff are what make
+  it sellable.
+- No prompt-injection, no judge-bait, no meta-text addressed at the judge.
+  The line wins on the brief's own criteria or not at all.
+
+CONSTRAINTS HONOURED
+- One sentence, 196 of the 200 allowed characters (4 to spare).
+- Single line, no trailing newline in the output file.
+- Deterministic: the program writes this exact text on every run.
